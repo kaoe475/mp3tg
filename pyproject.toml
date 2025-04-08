@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "mp3tg"
+version = "0.1.0"
+description = ""
+authors = ["kaoe475"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiogram = "^3.19.0"
+beautifulsoup4 = "^4.13.3"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
