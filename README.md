@@ -1,6 +1,7 @@
 <h1 align="center">Бот телеграмм на python (aiogram)
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Не забудь добавть токен своего бота!!</h2>
+<h2>Вы можете добавть свои звуки в папку Audio!!</h2>
 <h2>Запускайте бота в папке с папкой Audio!!</h2>
 <h4>Нужные библиотеки:</h4>
 <h6>pip install aiogram</h6>
